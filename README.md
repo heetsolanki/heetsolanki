@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Heet Solanki
-- 👀 I’m interested in Coding, and all the stuff around computers.
+- 👀 I’m interested in Coding, and all the stuff around computers. Other than coding I am also interested in Space, Travelling and Indian History.
 - 🌱 I’m currently pursuing Bachelor's of Computer Applications (BCA).
 - 📫 You can contact me on my [Instagram](https://www.instagram.com/heetsolankii)
 <br>

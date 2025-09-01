@@ -5,7 +5,7 @@
 <br>
 VISITOR COUNT
 
-![Visitor Count](https://komarev.com/ghpvc/?username=heetsolanki&style=flat&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=heetsolanki&style=flat-square&color=green)
 <!---
 heetsolankiii/heetsolankiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
